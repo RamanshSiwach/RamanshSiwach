@@ -18,16 +18,19 @@ I believe in learning by doing, building practical projects, and improving consi
 
 ## 🛠️ Skills & Technologies
 
-**Currently Learning:**
-- Microsoft Excel
-- SQL
-- Python
+### Currently Learning
 
-**Exploring:**
-- Power BI
-- Pandas
-- Data Visualization
-- Statistics
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Exploring
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📂 My Projects
 
